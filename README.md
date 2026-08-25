@@ -40,8 +40,8 @@ I'm still putting this out there publicly because it might be useful or interest
 3. **The Search & Validation Phase (`src/search/` & `src/validation/`)**
    - **Genetic Algorithm (`genetic.py` & `fitness.py`)**: Evolves populations of move sequences over multiple generations to maximize length, damage, and graph compliance.
    - **Simulator (`simulator.py`)**: Evaluates step-by-step connectivity, drops invalid links, and applies realistic damage scaling per hit index.
-4. **Output Files (`results/combos/` & `results/combos/`)**
-   - **Check these both files for extracted moves and discovered combos in json format.**
+4. **Output Files**
+   - **Check these both folders  (`results/combos/` & `results/combos/`) for extracted moves and discovered combos in json format.**
 ---
 
 
