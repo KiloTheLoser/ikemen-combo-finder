@@ -1,0 +1,13 @@
+# Configuration for ikemen-combo-finder
+
+character_path: "data/chars/your_character"
+
+search_settings:
+  max_combo_length: 10
+  population_size: 100
+  generations: 50
+  mutation_rate: 0.1
+
+output_paths:
+  moves: "results/moves/"
+  combos: "results/combos/"
