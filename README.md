@@ -70,11 +70,6 @@ ikemen-combo-finder/
 
 ---
 
-## 🛠️ Requirements & Installation
-
-### Prerequisite
-* **Python 3.14.7** or higher.
-
 ### Installation Steps
 
 1. **Clone the Repository**
