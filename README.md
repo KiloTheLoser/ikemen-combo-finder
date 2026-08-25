@@ -1,6 +1,6 @@
 # 🥋 Ikemen Combo Finder
 
-An automated tool designed to discover, validate, and optimize combo chains for **Ikemen GO** and **MUGEN** characters. It parses raw character source files (`.def`, `.cmd`, `.cns`/`.st`), builds a transition graph of possible moves, optimizes sequences using a **Genetic Algorithm**, and verifies them through a rule-based **Combo Simulator**.
+An automated tool designed to discover possible combo chains for **Ikemen GO** and **MUGEN** characters. It parses raw character source files (`.def`, `.cmd`, `.cns`/`.st`), builds a transition graph of possible moves, optimizes sequences using a **Genetic Algorithm**, and verifies them through a rule-based **Combo Simulator**.
 
 ---
 
