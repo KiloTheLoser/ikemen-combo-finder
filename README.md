@@ -61,7 +61,7 @@ ikemen-combo-finder/
 │   ├── model/                  # Data structures (Move, Character, CancelGraph)
 │   ├── search/                 # Genetic algorithm and fitness evaluator
 │   ├── validation/             # Rule-checking combo simulator & validator
-│   └── utils/                  # Helper functions
+│    functions
 ├── scripts/                    # Entry-point scripts (Extraction & Search)
 └── results/
     ├── moves/                  # Extracted character profiles (.json)
@@ -74,7 +74,7 @@ ikemen-combo-finder/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/username/ikemen-combo-finder.git
+   git clone https://github.com/KiloTheLoser/ikemen-combo-finder.git
    cd ikemen-combo-finder
    ```
 
