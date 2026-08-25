@@ -15,7 +15,7 @@ If you stumbled onto this repository expecting a polished, well-engineered tool 
 
 Some honest context about why:
 
-I can't code. I'm not a programmer, and I don't write the code in this repository myself. This entire project is built by relying heavily on AI — I describe what I want, it generates the code, and I test until something works.
+I can't code. I'm not a programmer, and I don't write the code in this repository myself. This entire project is built by relying heavily on AI — I describe what I want, it generates the code, and I test until something works (even this readme file is AI generated).
 Because of that, everything takes longer. What a real developer could do in an hour might take me days or weeks of trial and error. Some things stay broken for a long time simply because I don't always know how to fix them.
 Don't expect frequent updates. There is no roadmap, no release schedule, and no promises. Long silences between commits are normal here, not a sign that something big is coming.
 So, with all that in mind:
