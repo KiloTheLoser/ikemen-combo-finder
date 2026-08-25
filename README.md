@@ -9,7 +9,7 @@ An automated tool designed to discover possible combo chains for **Ikemen GO** a
 
 
 ## ⚠️ Read This First — An Honest Disclaimer
-This is not a good project — and I'd rather be upfront about that.
+This might not be the kind of project you were expecting — and I’d rather be upfront about that.
 
 If you stumbled onto this repository expecting a polished, well-engineered tool that gets regular updates, let me save you the disappointment now: this isn't it. This project is imperfect, messy, and flawed in more ways than I can count. There might be bugs, questionable decisions, and a long list of things that should be improved but haven't been.
 
