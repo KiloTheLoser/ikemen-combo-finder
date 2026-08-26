@@ -61,7 +61,7 @@ ikemen-combo-finder/
 │   ├── model/                  # Data structures (Move, Character, CancelGraph)
 │   ├── search/                 # Genetic algorithm and fitness evaluator
 │   ├── validation/             # Rule-checking combo simulator & validator
-│    functions
+│
 ├── scripts/                    # Entry-point scripts (Extraction & Search)
 └── results/
     ├── moves/                  # Extracted character profiles (.json)
